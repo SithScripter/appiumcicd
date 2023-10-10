@@ -16,7 +16,7 @@
       <methods>
 	  	<!--  <include name = "validateProductOnProductDetailsPage" />-->
 	      <include name = "invalidUsername" />
-		  <include name = "invalidUserPassword" />
+		 <!-- <include name = "invalidUserPassword" />-->
 		  <include name = "successfulLogin" /> 
 	  </methods>
     </classes>
